@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<allpublications>
+    <publication id= "1">
+        <name>Dynamic security authentication for wireless communication networks -- </name>
+        <uri>https://www.google.com/patents/US7233664</uri>
+        <authors>Hamdy Soliman</authors>
+        <publisher>US Patent</publisher>
+        <publication_details>US Patent 7,233,664</publication_details>
+        <type_of_publication>Patent</type_of_publication>
+        <year_of_publication>19 Jun, 2007</year_of_publication>
+        <keyword_primary>wireless Networks</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    
+    <publication id= "5">
+        <name>Dynamic security authentication for wireless communication networks</name>
+        <uri>https://www.google.com/patents/US7233664</uri>
+        <authors>Hamdy Soliman</authors>
+        <publisher>US Patent</publisher>
+        <publication_details>US Patent 7,233,664</publication_details>
+        <type_of_publication>Patent</type_of_publication>
+        <year_of_publication>20 Jun, 2007</year_of_publication>
+        <keyword_primary>wireless Networks</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+</allpublications>
+    

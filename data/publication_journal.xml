@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<allpublications>
+    <publication id = "1">
+        <name>Improving query precision using semantic expansion</name>
+        <uri>http://www.sciencedirect.com/science/article/pii/S0306457306001932</uri>
+        <authors>Abdelali, J Cowie, HS Soliman</authors>
+        <publisher>Pergamon</publisher>
+        <publication_details>Information Processing &amp; Management | Volume 43 | Issue 3 | Pages 705-716</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>31 May, 2007</year_of_publication>
+        <keyword_primary>Query Expansion, Information Retrieval, Precision; Latent Semantic Analysis; Arabic</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id = "2">
+        <name>Building a modern standard Arabic corpus</name>
+        <uri>http://s3.amazonaws.com/academia.edu.documents/45106733/0fcfd51127ddd712bd000000.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&amp;Expires=1483782996&amp;Signature=G53wsmFRiIfh0SqBg7KilvKx28M%3D&amp;response-content-disposition=inline%3B%20filename%3DBuilding_A_Modern_Standard_Arabic_Corpus.pdf</uri>
+        <authors>Ahmed Abdelali, James Cowie, H Soliman</authors>
+        <publisher>#</publisher>
+        <publication_details>Proceedings of workshop on computational modeling of lexical acquisition. The split meeting. Croatia (25-28 July)</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>25 Jul, 2005</year_of_publication>
+        <keyword_primary>Arabic</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id = "3">
+        <name>A neural networks approach to image data compression</name>
+        <uri>http://www.sciencedirect.com/science/article/pii/S1568494605000165</uri>
+        <authors>Hamdy S Soliman, Mohammed Omari</authors>
+        <publisher>Elsevier</publisher>
+        <publication_details>Applied Soft Computing | Volume 6 | Issue 3 | Pages 258-271</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>31 March, 2006</year_of_publication>
+        <keyword_primary>Image compression; Kohonen model; ART model; Direct classification; Self-organizing feature map; Geosynchronous satellite; Colored documents; Universal codebook</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="4">
+        <name>Arabic information retrieval perspectives</name>
+        <uri>http://s3.amazonaws.com/academia.edu.documents/30506024/taaa13.pdf?AWSAccessKeyId=AKIAJ56TQJRTWSMTNPEA&amp;Expires=1483820683&amp;Signature=K%2Fl3OobNWSi3U%2BLus3s1p%2BBw%2Bvc%3D&amp;response-content-disposition=inline%3B%20filename%3DArabic_information_retrieval_perspective.pdf</uri>
+        <authors>Ahmed Abdelali, Jim Cowie, Hamdy S Soliman</authors>
+        <publisher>#</publisher>
+        <publication_details>Proceedings of the 11th Conference on Natural Language Processing, Journes d'Etude sur la Parole-Traitement Automatique des Langues Naturelles (JEP-TALN)</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>Apr, 2004</year_of_publication>
+        <keyword_primary>Arabic; Information Retrieval</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    
+    <publication id="5">
+        <name>Image coding by a neural net classification process</name>
+        <uri>http://www.tandfonline.com/doi/abs/10.1080/088395197118334</uri>
+        <authors>Willie Chang, Hamdy S Soliman</authors>
+        <publisher>Taylor &amp; Francis Group</publisher>
+        <publication_details>Applied artificial intelligence | Volume 11 | Issue 1 | Pages 33-58</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 1997</year_of_publication>
+        <keyword_primary>Neural Network</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    
+    <publication id="6">
+        <name>A multipath routeless routing protocol with an efficient location update mechanism</name>
+        <uri>http://www.inderscienceonline.com/doi/abs/10.1504/IJIPT.2011.040616</uri>
+        <authors>Mohammad Al-Otaibi, Hamdy Soliman, Jun Zheng</authors>
+        <publisher>Inderscience Publishers</publisher>
+        <publication_details>International Journal of Internet Protocol Technology | Volume 6 | Issue 1-2 | Pages 75-82</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 2011</year_of_publication>
+        <keyword_primary>Network performance; Standard beaconless routing; BLR; Multipath routing; Routeless routing; GPSR; Location update</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    
+    <publication id="7">
+        <name>Enhancing AODV routing protocol over mobile ad hoc sensor networks</name>
+        <uri>http://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2011.040902</uri>
+        <authors>Hamdy Soliman, Mohammad Al-Otaibi</authors>
+        <publisher>Inderscience Publishers</publisher>
+        <publication_details>International Journal of Sensor Networks | Volume 10 | Issue 1-2 | Pages 36-41</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 2011</year_of_publication>
+        <keyword_primary>Routing protocols; Network performance; Self-repairing AODV; AODV-RSR; AODV-PSR; SRAODV; Mobile ad hoc sensor networks; MASNETs; Mobile networks; Ad hoc networks, Packet delay; Packet delivery ratio; Control message overhead</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    
+    <publication id="8">
+        <name>Efficient geographic routeless routing protocols with enhanced location update mechanism</name>
+        <uri>http://www.inderscienceonline.com/doi/abs/10.1504/IJSNET.2010.036191</uri>
+        <authors>Mohammad Al-Otaibi, Hamdy Soliman</authors>
+        <publisher>Inderscience Publishers</publisher>
+        <publication_details>International Journal of Sensor Networks | Volume 8 | Issue 3-4 | Pages 160-171</publication_details>
+        <type_of_publication>Journal</type_of_publication>
+        <year_of_publication>1 Jan, 2010</year_of_publication>
+        <keyword_primary>LAR; location-aided routing; RAF; received signal strength-aided flooding; geo-flooding; controlled flooding; routeless routing; static channel width; dynamic channel width; mobile ad hoc sensor networks; MASNETs; mobile networks; ad hoc networks; simulation; energy consumption; packet delivery ratio; end-to-end delay</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+</allpublications>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allpublications>
+    
+    <publication id = "1">
+        <name>Application of synchronous dynamic encryption system in mobile wireless domains</name>
+        <uri>http://dl.acm.org/citation.cfm?id=1089766</uri>
+        <authors>Hamdy S Soliman, Mohammed Omari</authors>
+        <publisher>ACM</publisher>
+        <publication_details>Proceedings of the 1st ACM international workshop on Quality of service &amp; security in wireless and mobile networks | Pages 24-30</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>13 Oct, 2005</year_of_publication>
+        <keyword_primary>Mobile network security; dynamic encryption; permutation vectors; flexible integrity; integrity violations; seamless handover</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="2">
+        <name>An efficient routing approach over mobile wireless ad-hoc sensor networks</name>
+        <uri>http://ieeexplore.ieee.org/document/4784700/?arnumber=4784700</uri>
+        <authors>Hamdy Soliman, Mohammad AlOtaibi</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>2009 6th IEEE Consumer Communications and Networking Conference | Pages 1-5</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>10 Jan, 2009</year_of_publication>
+        <keyword_primary>Wireless sensor networks; Routing protocols; Bandwidth; Broadcasting; Costs; Global Positioning System; Computer networks; Network topology; Delay effects</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="3">
+        <name>A smart forest-fire early detection sensory system: Another approach of utilizing wireless sensor and neural networks</name>
+        <uri>http://ieeexplore.ieee.org/document/5690033/?arnumber=5690033</uri>
+        <authors>Hamdy Soliman, Komal Sudan, Ashish Mishra</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>Sensors, 2010 IEEE | Pages 1900-1904</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>1 Nov, 2010</year_of_publication>
+        <keyword_primary>Fires;Artificial neural networks;Support vector machine classification;Training;Temperature sensors;Wireless sensor networks;Base stations</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="4">
+        <name>Mobile cloud gaming: issues and challenges</name>
+        <uri>http://link.springer.com/chapter/10.1007/978-3-642-40276-0_10</uri>
+        <authors>Omar Soliman, Abdelmounaam Rezgui, Hamdy Soliman, Najib Manea</authors>
+        <publisher>Springer Berlin Heidelberg</publisher>
+        <publication_details>International Conference on Mobile Web and Information Systems | Pages 121-128</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>26 Aug, 2013</year_of_publication>
+        <keyword_primary>GPU service; Cloud gaming; On-demand gaming</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="5">
+        <name>Detecting border intrusion using wireless sensor network and artificial neural network</name>
+        <uri>http://ieeexplore.ieee.org/document/5593287/?arnumber=5593287</uri>
+        <authors>Ashish Mishra, Komal Sudan, Hamdy Soliman</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>Distributed Computing in Sensor Systems Workshops (DCOSSW), 2010 6th IEEE International Conference | Pages 1-6</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>21 June, 2010</year_of_publication>
+        <keyword_primary>Artificial neural networks;Biological neural networks;Intrusion detection;Monitoring;Support vector machine classification;Backpropagation;Base stations</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="6">
+        <name>Application of synchronous dynamic encryption system (SDES) in wireless sensor networks</name>
+        <uri>http://dl.acm.org/citation.cfm?id=1089996</uri>
+        <authors>Hamdy S Soliman, Mohammed Omari</authors>
+        <publisher>ACM</publisher>
+        <publication_details>Proceedings of the 2nd ACM international workshop on Performance evaluation of wireless ad hoc, sensor, and ubiquitous networks | Pages 250-254</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>10 Oct, 2005</year_of_publication>
+        <keyword_primary>Sensors security primitives; stream ciphers; encryptionpermutation vectors; deployment knowledge; power balancing</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="7">
+        <name>An efficient application of a dynamic crypto system in mobile wireless security</name>
+        <uri>http://ieeexplore.ieee.org/document/1311295/?arnumber=1311295</uri>
+        <authors>Hamdy S Soliman, Mohammed Omari</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>Wireless Communications and Networking Conference, 2004. WCNC. 2004 IEEE</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>21 Mar, 2004</year_of_publication>
+        <keyword_primary>Communication system security;Authentication;Public key cryptography;Data security;Wireless communication;Mobile computing;Wireless networks;Solids;Handheld computers;Application software</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="8">
+        <name>Fingerprint image compression by a natural clustering neural network</name>
+        <uri>http://ieeexplore.ieee.org/document/413588/?arnumber=413588</uri>
+        <authors>Willie Chang, Hamdy S Soliman, Andrew H Sung</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>Image Processing, 1994. Proceedings. ICIP-94. IEEE International Conference | Volume 2 | Pages 341-345</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>13 Nov, 1994</year_of_publication>
+        <keyword_primary>Fingerprint recognition;Image matching;Image coding;Transform coding;Neural networks;Vector quantization;Neurons;Robustness;Very large scale integration;Unsupervised learning</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    
+    <publication id="9">
+        <name>A vector quantization neural network to compress still monochromatic images</name>
+        <uri>http://ieeexplore.ieee.org/document/374882/?arnumber=374882</uri>
+        <authors>W Chang, HS Soliman, AH Sung</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>Neural Networks, 1994. IEEE World Congress on Computational Intelligence, 1994. IEEE International Conference | Volume 6 | Pages 4163-4168</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>1994</year_of_publication>
+        <keyword_primary>Vector quantization;Neural networks;Image coding;Neurons;Robustness;Very large scale integration;Transform coding;Fingerprint recognition;Image matching;Standards development</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="10">
+        <name>Preserving visual perception by learning natural clustering</name>
+        <uri>http://ieeexplore.ieee.org/document/298633/?arnumber=298633</uri>
+        <authors>W Chang, HS Soliman, AH Sung</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>Neural Networks, 1993. IEEE International Conference. Pages 661-666</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>1993</year_of_publication>
+        <keyword_primary>Visual perception; Redundancy;Neural networks; Space technology; Frequency;Data compression; Entropy;Artificial neural networks; Computer science; Electronic mail</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+    <publication id="11">
+        <name>Image data compression using counterpropagation network</name>
+        <uri>http://ieeexplore.ieee.org/document/271741/?arnumber=271741</uri>
+        <authors>W Chang, HS Soliman, AH Sung</authors>
+        <publisher>IEEE</publisher>
+        <publication_details>Systems, Man and Cybernetics, 1992. IEEE International Conference | Pages 405-409</publication_details>
+        <type_of_publication>Conference</type_of_publication>
+        <year_of_publication>18 Oct, 1992</year_of_publication>
+        <keyword_primary>Data compression;Image coding;Vector quantization;Artificial neural networks;Organizing;Computer science;Electronic mail;Transfer functions;Table lookup;Image reconstruction</keyword_primary>
+        <keyword_secondary></keyword_secondary>
+    </publication>
+   
+</allpublications>
